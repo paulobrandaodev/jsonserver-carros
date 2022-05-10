@@ -3,12 +3,14 @@
         {
             "id": 1,
             "nome": "Paulo",
-            "email" : "paulo@email.com"
+            "email" : "paulo@email.com",
+            "foto" : "avatar.png"
         },
         {
             "id": 2,
             "nome": "Priscila",
-            "email" : "priscila@email.com"
+            "email" : "priscila@email.com",
+            "foto" : "avatar.png"
         }
     ],    
     "locadora" : [
